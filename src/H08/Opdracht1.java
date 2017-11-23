@@ -8,6 +8,7 @@ public class Opdracht1 {
 }
 
 public class Opracht1 extends Applet {
+}
     TextField tekstvak;
     Button knop;
 
@@ -31,5 +32,4 @@ public class Opracht1 extends Applet {
                     "maar nu staat er iets anders");
             repaint();
         }
-    }
 }
